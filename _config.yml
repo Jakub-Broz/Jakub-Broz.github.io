@@ -101,11 +101,14 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# Header
 
+header:
+  image: /assets/images/image-filename.jpg
 # Site Author
 author:
   name             : "Blog"
-  avatar           : "/assets/images/image_profile_JB.jpg"
+  avatar           : /assets/images/image_profile_JB.jpg
   bio              : "Game Design Portfolio"
   location         : "Prague, Europe"
   email            :
