@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Jakub Broz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/image_profile_JB.jpg"
+  bio              : "Game Design Portfolio"
+  location         : "Prague, Europe"
   email            :
   links:
     - label: "Email"
