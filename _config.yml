@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "https://twitter.com/TheSpaceMoomin"
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jakub Broz"
+  name             : "Blog"
   avatar           : "/assets/images/image_profile_JB.jpg"
   bio              : "Game Design Portfolio"
   location         : "Prague, Europe"
