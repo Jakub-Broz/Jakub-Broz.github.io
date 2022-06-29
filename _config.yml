@@ -104,11 +104,11 @@ analytics:
 # Header
 
 header:
-  image: /assets/images/image-filename.jpg
+  image: /assets/images/cover_image.jpg
 # Site Author
 author:
   name             : "Blog"
-  avatar           : /assets/images/image_profile_JB.jpg
+  avatar           : /assets/images/profile_image_JB.jpg
   bio              : "Game Design Portfolio"
   location         : "Prague, Europe"
   email            :
