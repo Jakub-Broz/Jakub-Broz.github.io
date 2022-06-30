@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Jakub Broz"
 title_separator          : "-"
-subtitle                 : Aspiring Game Designer, experienced Product Lead
+subtitle                 : Game Design Portfolio
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Blog"
+  name             : "Jakub Broz"
   avatar           : /assets/images/profile_image_JB.jpg
-  bio              : "Game Design Portfolio"
+  bio              : "Aspiring Game Designer, experienced Product Lead"
   location         : "Prague, Europe"
   email            :
   links:
