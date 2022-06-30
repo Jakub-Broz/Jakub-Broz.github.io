@@ -108,8 +108,6 @@ author:
   avatar           : /assets/images/profile_image_JB.jpg
   bio              : "Aspiring Game Designer, experienced Product Lead"
   location         : "Prague, Europe"
-  sidebar:
-  nav: "docs"
   email            :
   links:
     - label: "Email"
