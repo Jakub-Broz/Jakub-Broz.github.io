@@ -7,3 +7,11 @@ main:
      url: /portfolio/
    - title: "About"
      url: /about/
+docs:
+
+      - title: "Blog"
+        url: /docs/quick-start-guide/
+      - title: "Portfolio"
+        url: /docs/structure/
+      - title: "About"
+        url: /docs/installation/
